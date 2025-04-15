@@ -11,7 +11,7 @@
 - ⚙️ Built real-time dashboards, mobile apps, and tracking systems impacting 1000+ customers  
 - 💬 Ask me about **React, Next.js, Supabase, Firebase, WebRTC, Puppeteer**  
 - 🧠 Believe in learning by building — I solve real-world problems with clean, performant UI  
-- 📫 Email: `mrutyunjaya.behera.dev@gmail.com`  
+- 📫 Email: `mrutyunjaya.9029@gmail.com`  
 - 🌐 Portfolio: [mrutyunjayaa.netlify.app](https://mrutyunjayaa.netlify.app/)  
 
 ---
@@ -19,11 +19,12 @@
 ### 🛠️ Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**  
@@ -33,12 +34,12 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Tools & Libraries**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
@@ -47,12 +48,8 @@
 - **📊 Campaign Dashboard** – Tracked 100+ goals, improved campaign reach by 20%  
 - **📱 React Native CRM App** – Built global store & caching, increased retention by 30%  
 - **🚢 Shipment Tracker** – Real-time tracking via Leaflet.js, improved accuracy by 40%  
-- **💬 Push Notifications** – Integrated FCM/APNs across devices, improved alerts by 99%  
-- **🧠 Splitwise Clone** – Built using React/React Native and Supabase  
-- **📈 InsightHQ (SaaS)** – Real-time analytics dashboard with App Router + charts  
-- **🎥 WebRTC Video App** – Custom peer-to-peer app without `simple-peer`  
+- **💬 Push Notifications** – Integrated FCM/APNs across devices, improved alerts by 99%
 - **🧪 AdBlock Chrome Extension** – Blocks YouTube pre/mid-roll ads  
-- **🤖 AI Stock Bot (WIP)** – Puppeteer-powered trading assistant  
 
 ---
 
@@ -72,9 +69,9 @@
 
 ### 📝 Latest Blog Posts
 
-- [Hydration in React and Next.js – Deep Dive](https://medium.com/@mrutyunjayaa/hydration-in-next-js-why-it-breaks-and-how-to-fix-it-professionally-xxxx)  
-- [Server Components in Next.js — Explained](https://medium.com/@mrutyunjayaa/server-components-nextjs-guide-xxxx)  
-- [Image Optimization in Next.js using `next/image`](https://medium.com/@mrutyunjayaa/image-optimization-nextjs-xxxx)  
+- [Ultimate Guide to Image Optimization in Next.js with next/image](https://medium.com/@mrutyunjaya.9029/%EF%B8%8F-ultimate-guide-to-image-optimization-in-next-js-with-next-image-0ec1c356b469)
+- [Understanding Hydration in React & Next.js: A Complete Guide to Fixing Mismatches and Optimizing UX](https://medium.com/@mrutyunjaya.9029/understanding-hydration-in-react-next-js-3c97976e6c8e)  
+- [Optimizing TTFB in a Next.js App(step-by-step guide)](https://medium.com/@mrutyunjaya.9029/optimizing-ttfb-in-a-next-js-app-step-by-step-guide-e22d14a29868)  
 
 ---
 
@@ -82,6 +79,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrutyunjaya-behera-07172b1a6)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:mrutyunjaya.9029@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/MrutyunjayaB)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=netlify&logoColor=white)](https://mrutyunjayaa.netlify.app/)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@mrutyunjaya.9029)
+
+📞 Phone: +91-XXXXXXXXXX
+📧 Email: mrutyunjaya.9029@gmail.com
 
 ---
 

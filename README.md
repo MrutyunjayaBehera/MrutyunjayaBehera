@@ -62,6 +62,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrutyunjayaB&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrutyunjayaB&theme=radical)
 
+#### Second GitHub Account Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MrutyunjayaBehera&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrutyunjayaBehera&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrutyunjayaBehera&theme=radical)
+
 ---
 
 ### 📝 Latest Blog Posts
